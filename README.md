@@ -3,7 +3,7 @@
 **🏏   IPL Dashboard Project**
 
 _This project is a comprehensive IPL (Indian Premier League) Dashboard built using Power BI, based on detailed cricket match datasets including ball-by-ball performance, player stats, team data, and match summaries. The goal of this dashboard is to enable deep insights into IPL performances over the years through interactive visuals._
-
+ 
 **Features of the Dashboard**
 
 Match Summary View: Overview of wins, toss decisions, and match results across seasons.
